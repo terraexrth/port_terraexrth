@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ed68f39d.css",
+    "main.js": "/react-gh-pages/static/js/main.9575e202.js",
+    "static/js/787.f112c41a.chunk.js": "/react-gh-pages/static/js/787.f112c41a.chunk.js",
+    "static/media/profile_img.jpg": "/react-gh-pages/static/media/profile_img.e85de4c8ce13f86b3a24.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.ed68f39d.css.map": "/react-gh-pages/static/css/main.ed68f39d.css.map",
+    "main.9575e202.js.map": "/react-gh-pages/static/js/main.9575e202.js.map",
+    "787.f112c41a.chunk.js.map": "/react-gh-pages/static/js/787.f112c41a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed68f39d.css",
+    "static/js/main.9575e202.js"
+  ]
+}
